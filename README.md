@@ -22,14 +22,14 @@ Dynamic Event Integration:
 TrendVibe seamlessly integrates with e-commerce events and promotions, ensuring users are always informed about exclusive offers, flash sales, and limited-edition products. This integration adds a sense of urgency and excitement to the shopping experience.
 
 Tech Stack:
--Python: Utilized for AI model development and backend logic.
--TrendNet: Employs cutting-edge AI models to predict trends and personalize recommendations.
--React: Powers the creation of a responsive and interactive frontend interface.
--Node.js: Facilitates efficient backend processing and API management.
--CloudifyDB: Stores user profiles, interactions, and style preferences securely.
--CloudNova, Gradio: Ensures scalable hosting, seamless AI model deployment, and efficient data processing.
--Natural Language Processing (NLP) Libraries: Enables accurate understanding and generation of natural -language conversations.
--Visual Cortex APIs: Facilitates virtual try-ons and offers visual product suggestions.
+- Python: Utilized for AI model development and backend logic.
+- TrendNet: Employs cutting-edge AI models to predict trends and personalize recommendations.
+- React: Powers the creation of a responsive and interactive frontend interface.
+- Node.js: Facilitates efficient backend processing and API management.
+- CloudifyDB: Stores user profiles, interactions, and style preferences securely.
+- CloudNova, Gradio: Ensures scalable hosting, seamless AI model deployment, and efficient data processing.
+- Natural Language Processing (NLP) Libraries: Enables accurate understanding and generation of natural -language conversations.
+- Visual Cortex APIs: Facilitates virtual try-ons and offers visual product suggestions.
 
 TrendVibe's holistic approach empowers users to confidently navigate the ever-changing landscape of e-commerce. By embracing trends that align with their unique styles, users can enjoy a gratifying and trend-aligned shopping journey. TrendVibe transforms the e-commerce experience into a personalized, dynamic, and exciting adventure.
 
